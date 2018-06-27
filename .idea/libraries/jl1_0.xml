@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jl1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/jl1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/gtranslateapi-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/json-20180130.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
